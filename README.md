@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Dart,Python,C++**
 
-- 👯 I’m looking to collaborate on **Flutter develupments**
+- 👯 I’m looking to collaborate on **Flutter projects**
 
 - 🤝 I’m looking for help with **Back End projects**
 
